@@ -1,0 +1,8 @@
+{
+  "name": "timeline",
+  "description": "An SMS-enabled blogging platform",
+  "memory": 128,
+  "timeout": 30,
+  "role": "arn:aws:iam::667205299885:role/timeline_lambda_function",
+  "environment": {}
+}
